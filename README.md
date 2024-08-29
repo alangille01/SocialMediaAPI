@@ -158,6 +158,9 @@ To seed the database with initial data:
 
 This will clear existing data and insert the seed data into the database.
 
+## Demo
+
+See demo [here](https://drive.google.com/file/d/1Nywhs7fPO6yEDBzmJeiHbkED-hVipnT5/view?usp=sharing)
 ## License
 
 This project is licensed under the MIT license. For more information, please visit [this link](https://opensource.org/licenses/MIT).
